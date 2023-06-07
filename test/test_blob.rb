@@ -1,6 +1,7 @@
+i add a line for test
+i delete a line
 require_relative "./helper"
 
-class TestBlob < Minitest::Test
   include Linguist
 
   def setup
